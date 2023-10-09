@@ -1,2 +1,2 @@
 # ForPractise
-This repository was created for git practiuse purpose
+This repository was created for git practise purpose
